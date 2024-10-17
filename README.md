@@ -38,12 +38,15 @@ This project is a React application for basic user management using the Reqres A
 
 ## Usage
 
-1. Navigate to the Login page.
+1. Navigate to the **Login** page.
 2. Enter the following credentials to log in:
   
-   Email: eve.holt@reqres.in
-   Password: cityslicka
+   **Email**:  
+   `eve.holt@reqres.in`  
+
+   **Password**:  
+   `cityslicka`
    
-3. After logging in, you will be redirected to the Users List page, where you can see the list of users.
+3. After logging in, you will be redirected to the **Users List** page, where you can see the list of users.
 4. Use the search bar to filter users by name or email.
-5. Click on the Edit button to modify user details or the Delete button to remove a user.
+5. Click on the **Edit** button to modify user details or the **Delete** button to remove a user.
