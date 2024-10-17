@@ -25,8 +25,8 @@ This project is a React application for basic user management using the Reqres A
 
 1. Clone the repository:
    
-   git clone https://github.com/Sanghanmol/User-Management-App.git
-   cd user-ui
+  - git clone https://github.com/Sanghanmol/User-Management-App.git
+  - cd user-ui
 
 2. Install dependencies:
 
